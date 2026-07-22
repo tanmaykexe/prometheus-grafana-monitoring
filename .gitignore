@@ -1,0 +1,17 @@
+# Archives
+*.tar
+*.tar.gz
+
+# Logs
+*.log
+
+# PID files
+*.pid
+
+# Downloaded binaries
+node_exporter*
+prometheus-*
+
+# OS
+.DS_Store
+Thumbs.db
