@@ -73,6 +73,12 @@ prometheus-grafana-monitoring
 
 # 📸 Screenshots
 
+## Project Structure
+
+![Project Structure](screenshots/09-project-structure.png)
+
+---
+
 ## Prometheus Targets
 
 ![Prometheus Targets](screenshots/01-prometheus-targets.png)
@@ -85,21 +91,39 @@ prometheus-grafana-monitoring
 
 ---
 
+## CPU Metrics
+
+![CPU Metrics](screenshots/03-cpu-metrics.png)
+
+---
+
+## Memory Metrics
+
+![Memory Metrics](screenshots/04-memory-metrics.png)
+
+---
+
 ## Grafana Dashboard
 
-![Grafana Dashboard](screenshots/03-grafana-dashboard.png)
+![Grafana Dashboard](screenshots/05-grafana-dashboard.png)
 
 ---
 
 ## Grafana Data Source
 
-![Grafana Datasource](screenshots/04-grafana-datasource.png)
+![Grafana Datasource](screenshots/06-datasource-connected.png)
 
 ---
 
-## Grafana Service Status
+## Grafana Home
 
-![Grafana Service](screenshots/05-grafana-service.png)
+![Grafana Home](screenshots/07-grafana-home.png)
+
+---
+
+## Grafana Service
+
+![Grafana Service](screenshots/08-grafana-service.png)
 
 ---
 
@@ -156,7 +180,7 @@ A complete installation guide is available here:
 
 **Tanmay Khatri**
 
-GitHub: https://github.com/tanmaykexe
+LinkedIn: https://linkedin.com/in/tanmaykexe/
 
 ## 📄 License
 
